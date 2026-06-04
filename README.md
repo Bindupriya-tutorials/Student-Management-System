@@ -21,7 +21,7 @@ This is a beginner-level CRUD (Create, Read, Update, Delete) application develop
 1. Clone the repository
 
 ```bash
-git clone <your-github-link>
+git clone <https://github.com/Bindupriya-tutorials/Student-Management-System>
 ```
 
 2. Open the project folder in VS Code
