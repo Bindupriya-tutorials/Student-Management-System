@@ -1,4 +1,4 @@
-# Student Management System
+# StudentRecordManager-Java
 
 A simple Student Management System built using Python and SQLite.
 
